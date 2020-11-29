@@ -21,7 +21,8 @@ if(!$_POST){
     <button type="submit" name="submit" value="submit">Submit</button>
     </form>
     END_OF_BLOCK;
-}
+} else if（($_POST）&&($_POST['action'=="sub"]{
+    }
 ?>
 
 <!DOCTYPE html>
